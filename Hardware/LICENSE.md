@@ -64,12 +64,17 @@ a.	**Attribution**.
 
 1.	If You Share the Licensed Material (including in modified form), You must:
 
-A.	retain the following if it is supplied by the Licensor with the Licensed Material: 
-  i.	identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
-  ii.	a copyright notice;
-  iii.	a notice that refers to this Public License; 
-  iv.	a notice that refers to the disclaimer of warranties;
-  v.	a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+  A.	retain the following if it is supplied by the Licensor with the Licensed Material: 
+    
+    1.	identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+  
+   2.	a copyright notice;
+   
+   3.	a notice that refers to this Public License; 
+   
+   4.	a notice that refers to the disclaimer of warranties;
+   
+   5.	a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
 
 B.	indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
 

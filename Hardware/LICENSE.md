@@ -59,7 +59,9 @@ b.	**Other rights**.
 ## Section 3 – License Conditions.
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+
 a.	**Attribution**.
+
 1.	If You Share the Licensed Material (including in modified form), You must:
 A.	retain the following if it is supplied by the Licensor with the Licensed Material: 
 i.	identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
@@ -80,6 +82,7 @@ In addition to the conditions in Section 3(a), if You Share Adapted Material You
 ## Section 4 – Sui Generis Database Rights.
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
+
 a.	for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
 
 b.	if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and

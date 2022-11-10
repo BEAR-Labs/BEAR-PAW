@@ -28,7 +28,7 @@ The precise terms and conditions for copying, distribution and modification foll
 
 # TERMS AND CONDITIONS
 
-0. Definitions.
+0. **Definitions.**
 “This License” refers to version 3 of the GNU General Public License.
 
 “Copyright” also means copyright-like laws that apply to other kinds of works, such as semiconductor masks.
@@ -45,7 +45,7 @@ To “convey” a work means any kind of propagation that enables other parties 
 
 An interactive user interface displays “Appropriate Legal Notices” to the extent that it includes a convenient and prominently visible feature that (1) displays an appropriate copyright notice, and (2) tells the user that there is no warranty for the work (except to the extent that warranties are provided), that licensees may convey the work under this License, and how to view a copy of this License. If the interface presents a list of user commands or options, such as a menu, a prominent item in the list meets this criterion.
 
-1. Source Code.
+1. **Source Code.**
 The “source code” for a work means the preferred form of the work for making modifications to it. “Object code” means any non-source form of a work.
 
 A “Standard Interface” means an interface that either is an official standard defined by a recognized standards body, or, in the case of interfaces specified for a particular programming language, one that is widely used among developers working in that language.
@@ -58,7 +58,7 @@ The Corresponding Source need not include anything that users can regenerate aut
 
 The Corresponding Source for a work in source code form is that same work.
 
-2. Basic Permissions.
+2. **Basic Permissions.**
 All rights granted under this License are granted for the term of copyright on the Program, and are irrevocable provided the stated conditions are met. This License explicitly affirms your unlimited permission to run the unmodified Program. The output from running a covered work is covered by this License only if the output, given its content, constitutes a covered work. This License acknowledges your rights of fair use or other equivalent, as provided by copyright law.
 
 You may make, run and propagate covered works that you do not convey, without conditions so long as your license otherwise remains in force. You may convey covered works to others for the sole purpose of having them make modifications exclusively for you, or provide you with facilities for running those works, provided that you comply with the terms of this License in conveying all material for which you do not control copyright. Those thus making or running the covered works for you must do so exclusively on your behalf, under your direction and control, on terms that prohibit them from making any copies of your copyrighted material outside their relationship with you.

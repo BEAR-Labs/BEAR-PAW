@@ -11,4 +11,4 @@ The Bionic Engineering and Assistive Robotics Pediatric Assistive Ware (BEAR PAW
 
 # License
 
-The BEAR PAW...
+The hardware of the BEAR PAW is released under the Creative Commons BY-SA 4.0 license. The software of the BEAR PAW is released under the GNU General Public License v3. Both licenses have local copies available in the repository under the hardware and software folders. 

@@ -2,4 +2,4 @@ To upload the adruino code to the Arduino Pro Mini you will need to use the FTDI
 
 https://ftdichip.com/drivers/d2xx-drivers/
 
-The driver version used was the 2.12.28 but this is no longer supported. It can be found at the link above but newer version shoudl still work.
+The driver version used was the 2.12.28 but this is no longer supported. It can be found at the link above but newer version should still work.

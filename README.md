@@ -1,6 +1,5 @@
 # BEAR-PAW
-Documentation comming soon.                                                                                                                                                                                                        
-Contact Information: 
+                                                                                                                                                                      Contact Information: 
 
 Email: ucdbearlabs@gmail.com
 
